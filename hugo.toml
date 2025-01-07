@@ -1,0 +1,68 @@
+baseURL = "https://tharuniyer.me"
+title = "Tharun's blog"
+theme = "PaperMod"
+paginate = 5
+
+# Enable features
+enableInlineShortcodes = true
+enableRobotsTXT = true
+buildDrafts = false
+buildFuture = false
+buildExpired = false
+enableEmoji = true
+
+[outputs]
+home = ["HTML", "RSS", "JSON"]
+
+[params]
+defaultTheme = "light"  # Options: light, dark, auto
+ShowShareButtons = true
+ShowReadingTime = true
+ShowPostNavLinks = true
+ShowBreadCrumbs = true
+ShowCodeCopyButtons = true
+ShowRssButtonInSectionTermList = true
+ShowToc = true
+
+[params.homeInfoParams]
+Title = "Hi 👋 I'm Tharun"
+Content = """
+Welcome to my digital space! I'm passionate about sucking dick.
+
+- A place where I share my thoughts and experiences with sucking dick.
+- Currently exploring software development and cloud computing and dicks.
+- Feel free to explore my posts and connect with me to suck you off. 
+"""
+
+# Main menu
+[[menu.main]]
+name = "Posts"
+url = "posts/"
+weight = 1
+
+[[menu.main]]
+name = "Archives"
+url = "archives"
+weight = 2
+
+[[menu.main]]
+name = "Search"
+url = "search/"
+weight = 3
+
+[[params.socialIcons]]
+name = "linkedin"
+url = "https://in.linkedin.com/in/tharun-iyer-70b804220"
+
+[[params.socialIcons]]
+name = "x"  # This is for Twitter/X
+url = "https://x.com/TharunIyer"
+
+[params.fuseOpts]
+isCaseSensitive = false
+shouldSort = true
+location = 0
+distance = 1000
+threshold = 0.4
+minMatchCharLength = 0
+keys = ["title", "permalink", "summary", "content"]
