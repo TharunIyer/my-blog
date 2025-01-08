@@ -4,7 +4,7 @@ date: 2025-01-08
 draft: false  # Important: must be false to show up
 ---
 
-Hi, I'm Tharun, and this is my first post. This year, like millions of others, I made a resolution to write - at least one post every month. Given that most people who set new year resolutions fail them within the first two weeks, this might end up being my first and last post. But I thought I'd start by sharing something—a goal that I achieved last year—participating and winning Zerodha's internal health challenge.
+Hi, I'm Tharun, and this is my first post. Like millions of others who make new year resolutions, I too made one - to write at least one post every month. Given that most people who set new year resolutions fail them within the first two weeks, this might end up being my first and last post. But I thought I'd start by sharing something—a goal that I achieved last year—participating and winning Zerodha's internal health challenge.
 
 Like many others, I had the wrong idea about fitness. Playing sports and being able to fit into regular clothes made me believe I was fit and healthy. Then came the reality check - a Dexa scan at our office camp in October 2023 that completely shattered this belief. Turns out I weighed 78 kgs with a body fat percentage of 30.3%. The report was clear - I had excessive fat.
 
