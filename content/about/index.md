@@ -5,5 +5,4 @@ draft: false
 layout: "single"
 ---
 
-Hi, I'm Tharun and even though I am an Iyer and I don't eat non-veg, I like sucking dicks. 
-Even dicks without raincoats and old top hats. 
+Hi, I'm Tharun and this is my attempt at writing. My day job is working at Zerodha. In my free time I read, perform magic & mentalism, play the guitar and sing. 
