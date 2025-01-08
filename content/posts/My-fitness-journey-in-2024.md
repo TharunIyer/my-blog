@@ -20,7 +20,7 @@ Were there slip-ups? Absolutely. Parties happened, illnesses occurred, and somet
 
 After a year of consistent effort, we saw decent results. I went from 78 kgs with 30% body fat to 68 kgs with 18-20% body fat, while my wife achieved her target of 55 kgs. We ended up being runners-up in the challenge.
 
-![Before and After Transformation](../images/beforeaftertharun.jpg)
+![Before and After Transformation] (https://raw.githubusercontent.com/Tharunlyer/my-blog/main/assets/images/beforeaftertharun.jpg)
 
 On the guitar front, I went from not knowing how to hold a pick to now being able to play songs with cowboy chords and sing along. Here's me attempting to strum and sing O Sanam.
 
