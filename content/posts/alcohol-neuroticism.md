@@ -37,4 +37,4 @@ But this piece from Derek Thompson in the [Atlantic article](https://www.theatla
 
 So next time I'm out with friends, enjoying a good conversation over a glass of whiskey, will I be counting the minutes I'm losing? Probably not. Besides, I can always go for a jog tomorrow.
 
-Ps: This blog was written largely with Claude to bring clarity and polish to the ideas presented.
+Ps: This blog was written largely with Claude to bring clarity and polish to the ideas presented. I can outline like a pro but write like a toddler with a crayon.
