@@ -6,7 +6,7 @@ draft: false
 
 Ever since I read articles that covered the [U.S. Surgeon General's January 2024](https://www.hhs.gov/sites/default/files/oash-alcohol-cancer-risk.pdf) report about alcohol consumption, I haven't touched a drop. The report suggested that even moderate drinking could increase cancer risks, recommending scary warning labels on all alcoholic beverages. And then I learned that each drink supposedly takes away 5 minutes of your life. As someone who enjoyed their occasional glass of alcohol this was pretty unsettling.
 
-But then I stumbled upon [Derek Thompson's podcast](https://open.spotify.com/episode/59rE5oVQaqfQVKdhzS3kM8) that has pushed me down a rabbit hole and made it easier for me to reconsider my choices. And here's the thing - this isn't just a modern worry that I individually have. We've been worrying about alcohol consumption for literally thousands of years.
+But this weekend I was listening to [Derek Thompson's podcast](https://open.spotify.com/episode/59rE5oVQaqfQVKdhzS3kM8) that has pushed me down a rabbit hole and made it easier for me to reconsider my choices. And here's the thing - this isn't just a modern worry that I individually have. We've been worrying about alcohol consumption for literally thousands of years.
 
 "It is hard to say whether wine does good to more people than it harms"? Sounds like it could be from today's health magazine, but nope. That was Pliny the Elder, writing in the 1st century AD. Even back then, people were debating whether moderate drinking was okay.
 
