@@ -5,8 +5,6 @@ draft: false
 ---
 I think I am slowly turning into a "Self improoover", trying to optimize every second of my life like those LinkedIn bros posting their 4 AM cold shower routines. I am slowly becoming him.
 
-![Self Improvement Journey](/assets/images/self-improover.jpg)
-
 And in that quest to become the optimal male, I recently came across [this article](https://getpocket.com/explore/item/4-laws-of-muscle), where Luc van Loon, through research, explains the best time to have protein, the optimal quantity and what leads to muscle loss and how to prevent it. So if you are a fellow "self improover" and want to get jacked this year, here are some pearls:
 
 ## 1. Best time to have protein
