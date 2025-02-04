@@ -1,6 +1,6 @@
 ---
 title: "China is building a military base ten times the size of the Pentagon"
-date: 2024-02-04
+date: 2025-02-04
 ---
 
 China's military is [building a massive military base](https://www.ft.com/content/f3763e51-8607-42b9-9ef9-5789d5bf353d), a construction site spanning roughly 1500 acres. Rumours suggest they are planning on building large bunkers to protect their leaders in case of conflict, including a nuclear war.
