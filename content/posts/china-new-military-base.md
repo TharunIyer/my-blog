@@ -13,7 +13,8 @@ This focus on Taiwan is particularly concerning when you consider Taiwan's criti
 
 If China were to invade Taiwan, this entire ecosystem would be at risk. The impact would be devastating. Think about what happened in 2021 with the chip shortage—car production stopped, consumer electronics were hard to find, and the global economy lost around $240 billion in GDP. Now imagine that situation but on an even larger scale. The disruption wouldn't just affect gadgets; it would impact national defense, medical equipment, communications, and essential infrastructure worldwide. This is why the U.S. and its allies are working to spread out semiconductor production by investing in new facilities in places like the United States, Japan, and South Korea.
 
-![Car Volume Dip](/assets/images/Car volum drop 2.png)
+![Car Volume Dip](/assets/images/Car volume dip.png)
+
 ![Car Volume Drop 2](/assets/images/Car volume dip.png)
 
 We have done an entire episode on the global chip war on The Daily Brief, which you can find below.
