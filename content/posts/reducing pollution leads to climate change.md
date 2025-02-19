@@ -13,7 +13,7 @@ Hansen argues that by reducing the sulphur content in ship fuel - a well-intenti
 
 This could be the potential explanation for why you feel like there are two seasons now: summer and very hot summers. Scientists had predicted that the effects of El Niño (a natural warming phenomenon) would begin to decrease, but January 2025 remained the hottest January ever recorded. This suggests that even as El Niño's influence should be reducing, temperatures aren't dropping as expected. Hansen believes the reduction in sulphur aerosol could be the reason why we'll continue to see rising temperatures, making the international goal of limiting global warming to 2°C essentially unattainable.
 
-![[Pasted image 20250206165505.png]] (Use the image here)
+![Sulphur level to temperature change](/images/sulphurlevels.png)
 
 Hansen describes this situation as a "Faustian bargain" - a bad deal where humanity temporarily benefited from the cooling effects of air pollution while continuing to emit greenhouse gases. Now, as we clean up certain types of pollution (which we absolutely should), we're starting to see the full impact of our greenhouse gas emissions. If you wish to do a deep dive, you can find Hansen's research paper [here](https://www.tandfonline.com/doi/full/10.1080/00139157.2025.2434494#d1e1245).
 
