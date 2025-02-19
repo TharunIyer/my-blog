@@ -1,6 +1,6 @@
 ---
 title: "How a clerical error formed the $ 30 billion chicken industry"
-date: 2025-02-06
+date: 2025-02-11
 ---
 
 Cecile Steele was supposed to receive 50 chicks from a hatchery in 1923, but a clerical error resulted in her receiving 500 instead. Nobody predicted that this would lead to the $30 billion chicken industry.
