@@ -1,6 +1,6 @@
 ---
 title: "How reducing pollution is increasing global warming"
-date: 2025-02-07
+date: 2025-02-06
 ---
 
 Efforts to clean up our oceans might be accidentally speeding up global warming. Umm, but how, why? I had the exact same question when I came across [this article](https://www.ft.com/content/6589205c-b865-447d-bbc9-437b4806b59f) from Financial Times, and I tried my best to understand it and now I'm trying my hand at explaining it. I am by no means an expert but here is what I have understood.
